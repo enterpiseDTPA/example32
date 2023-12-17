@@ -1,2 +1,4 @@
 # example
-a repository used as a Git teaching demostration
+a repository used as a Git teaching demonstration
+
+
